@@ -1,0 +1,22 @@
+consumerKey:   62165343de77b146e38d91cc57012fc3f5 
+
+
+ consumerSecret : uycanGFmtDAYmkWzMxMn62cXR7a 
+ 
+ 
+ 
+ 
+ github PAT:   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
+ 
+ crypto compare:  dbf2f38f7731ec90136c4fc4684f3af720700f758f9e9b6d107143767ceae128
+
+
+git init
+git add .
+git commit -m "first commit"
+git branch -M main
+git remote add origin https://github.com/josh20122/test2.git
+git push -u origin main
+
+
+AIzaSyAwRXYBXDTv7ezcYbkJX7AHMAFPb7wDuew
